@@ -1,3 +1,7 @@
+@font-face {
+  font-family: mont-serratbolditalic;
+  src: url('../fonts/Montserrat-BoldItalic.ttf');
+}
 html,
 body {
   padding: 0;
