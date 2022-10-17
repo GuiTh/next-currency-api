@@ -16,7 +16,7 @@ module.exports = {
     theme:{
       extend: {
         fontFamily:{
-          'mont': ['Montserrat-Black']
+          mont: [Montserrat, mont]
         }
       },
 
