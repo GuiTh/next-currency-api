@@ -14,11 +14,7 @@ module.exports = {
     },
     darkmode: false,
     theme:{
-      extend: {
-        fontFamily:{
-          mont: [Montserrat, mont]
-        }
-      },
+      extend: {},
 
     },
     variants:{
