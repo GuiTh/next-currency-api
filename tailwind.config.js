@@ -14,8 +14,16 @@ module.exports = {
     },
     darkmode: false,
     theme:{
-      extend: {},
-
+      extend: {
+        colors:{
+          rosa:{
+            100: "#a1286f"
+          },
+          roxo:{
+            100: "#411a91"
+          }
+        }
+      },
     },
     variants:{
       extend: {},
